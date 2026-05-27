@@ -44,6 +44,26 @@ Tools & Components Used:
 
 ![Circuit Project](abe1caa3-58c8-45a9-9bbf-e32b8c0126a6.jpg)
 
+---
+
+##  3D CAD Modeling Projects
+
+Description:
+
+A collection of 3D modeling and engineering design activities created using Onshape. These projects demonstrate my skills in CAD modeling, technical design, and product visualization.
+
+Tools Used:
+- Onshape
+- CAD Modeling
+
+### Project Screenshots
+
+![CAD Project 1](filename1.png)
+
+![CAD Project 2](filename2.png)
+
+![CAD Project 3](filename3.png)
+
 ![Multimeter Testing](ef5a59da-f723-481b-a5ae-e0bbc49c9936.jpg)
 ## Fitness Tracking and Meal Planning Mobile Application
 
