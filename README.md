@@ -1,6 +1,7 @@
 Computer Engineering Portfolio
 
 Name: Kenn barkey Sonio
+
 Course & Section: BSCpE 3A
 
 About Me:
