@@ -39,18 +39,17 @@ Technologies Used:
 - Firebase
 - Cloud Firestore
 
+![WBS Screenshot](WBS%20Dictionary%20(1).png)
+
 ---
 
 ## 📌 Waterfall Model Presentation
 
 Description:
 
-A presentation discussing the Waterfall Software Development Model and its applications in software engineering projects.
+A presentation discussing the Waterfall Software Development Model.
 
-Tools Used:
-- Canva
-- Presentation Design
-
+![Waterfall Model](WATERFALL%20MODEL.png)
 ---
 
 ## 📌 Simple Python Calculator
@@ -62,6 +61,8 @@ A calculator program developed in Python that performs basic mathematical operat
 Technologies Used:
 - Python
 - VS Code
+
+![Python Calculator](Screenshot%202026-05-25%20020902.png)
 
 ---
 
