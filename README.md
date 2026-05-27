@@ -58,11 +58,11 @@ Tools Used:
 
 ### Project Screenshots
 
-![CAD Project 1](filename1.png)
+![CAD Project 1](onshape1.png
 
-![CAD Project 2](filename2.png)
+![CAD Project 2](onshape2.png)
 
-![CAD Project 3](filename3.png)
+![CAD Project 3](onshape3.png)
 
 ![Multimeter Testing](ef5a59da-f723-481b-a5ae-e0bbc49c9936.jpg)
 ## Fitness Tracking and Meal Planning Mobile Application
