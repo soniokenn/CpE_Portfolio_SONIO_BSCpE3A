@@ -28,11 +28,6 @@ I am passionate about programming, software development, and modern technology. 
 
 # Projects
 
-## Simple Python Calculator
-(description...)
-
-(image...)
-
 ---
 
 ##  Electronic Circuit Project
