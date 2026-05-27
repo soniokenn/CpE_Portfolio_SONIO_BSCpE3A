@@ -1,28 +1,81 @@
-Computer Engineering Portfolio
+# Kenn Sonio Portfolio
 
-Name: Kenn barkey Sonio
+Welcome to my Computer Engineering portfolio repository.
 
-Course & Section: BSCpE 3A
+I am a BS Computer Engineering student from CE3A. This portfolio contains academic projects, activities, and technical outputs that demonstrate my learning and experience in software and hardware development.
 
-About Me:
+---
 
-I am a Computer Engineering student passionate about programming, software development, and modern technology. I enjoy learning new skills, creating innovative projects, and improving my knowledge in both software and hardware systems. 
+# 📌 Personal Information
 
-Skills & Technologies:
+- Course: Bachelor of Science in Computer Engineering
+- Section: CE3A
 
-Python,
-GitHub,
-Canva,
-Firebase,
-React Native
+I am passionate about programming, software development, and modern technology. I enjoy learning new skills and creating innovative projects.
 
-Featured Projects:
+---
 
-Fitness Tracking and Meal Planning Mobile Application,
-Waterfall Model Presentation,
-Simple Python Calculator,
-Behavior-Based Safety Presentation
+# 🛠 Technical Skills
 
-Contact Information
+- Python Programming
+- GitHub
+- Canva
+- Firebase
+- React Native
+- Microsoft Office
+
+---
+
+# 📁 Projects
+
+## 📌 Fitness Tracking and Meal Planning Mobile Application
+
+Description:
+
+A mobile application project focused on fitness activity tracking, meal planning, and progress monitoring using Firebase backend services and React Native development.
+
+Technologies Used:
+- React Native
+- Firebase
+- Cloud Firestore
+
+---
+
+## 📌 Waterfall Model Presentation
+
+Description:
+
+A presentation discussing the Waterfall Software Development Model and its applications in software engineering projects.
+
+Tools Used:
+- Canva
+- Presentation Design
+
+---
+
+## 📌 Simple Python Calculator
+
+Description:
+
+A calculator program developed in Python that performs basic mathematical operations.
+
+Technologies Used:
+- Python
+- VS Code
+
+---
+
+## 📌 Behavior-Based Safety Presentation
+
+Description:
+
+A presentation about workplace safety practices and Behavior-Based Safety concepts.
+
+Tools Used:
+- Canva
+
+---
+
+# 📞 Contact Information
 
 Email: soniokenn04@email.com
