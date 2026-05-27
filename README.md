@@ -106,17 +106,6 @@ Technologies Used:
 
 ---
 
-## Behavior-Based Safety Presentation
-
-Description:
-
-A presentation about workplace safety practices and Behavior-Based Safety concepts.
-
-Tools Used:
-- Canva
-
----
-
 # 📞 Contact Information
 
 Email: soniokenn04@email.com
