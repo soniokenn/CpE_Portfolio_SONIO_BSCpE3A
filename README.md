@@ -28,14 +28,14 @@ I am passionate about programming, software development, and modern technology. 
 
 # 📁 Projects
 
-## 📌 Simple Python Calculator
+## Simple Python Calculator
 (description...)
 
 (image...)
 
 ---
 
-## 📌 Electronic Circuit Project
+##  Electronic Circuit Project
 
 Description:
 
@@ -50,7 +50,7 @@ Tools & Components Used:
 ![Circuit Project](abe1caa3-58c8-45a9-9bbf-e32b8c0126a6.jpg)
 
 ![Multimeter Testing](ef5a59da-f723-481b-a5ae-e0bbc49c9936.jpg)
-## 📌 Fitness Tracking and Meal Planning Mobile Application
+## Fitness Tracking and Meal Planning Mobile Application
 
 Description:
 
@@ -65,7 +65,7 @@ Technologies Used:
 
 ---
 
-## 📌 Waterfall Model Presentation
+## Waterfall Model Presentation
 
 Description:
 
@@ -74,7 +74,7 @@ A presentation discussing the Waterfall Software Development Model.
 ![Waterfall Model](WATERFALL%20MODEL.png)
 ---
 
-## 📌 Simple Python Calculator
+## Simple Python Calculator
 
 Description:
 
@@ -88,7 +88,7 @@ Technologies Used:
 
 ---
 
-## 📌 Behavior-Based Safety Presentation
+## Behavior-Based Safety Presentation
 
 Description:
 
