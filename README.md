@@ -28,6 +28,28 @@ I am passionate about programming, software development, and modern technology. 
 
 # 📁 Projects
 
+## 📌 Simple Python Calculator
+(description...)
+
+(image...)
+
+---
+
+## 📌 Electronic Circuit Project
+
+Description:
+
+A hands-on electronics project involving circuit assembly, soldering, and voltage testing using electronic components and a digital multimeter.
+
+Tools & Components Used:
+- Multimeter
+- Breadboard
+- Electronic Components
+- Soldering Materials
+
+![Circuit Project](abe1caa3-58c8-45a9-9bbf-e32b8c0126a6.jpg)
+
+![Multimeter Testing](ef5a59da-f723-481b-a5ae-e0bbc49c9936.jpg)
 ## 📌 Fitness Tracking and Meal Planning Mobile Application
 
 Description:
