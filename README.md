@@ -30,7 +30,7 @@ I am passionate about programming, software development, and modern technology. 
 
 ---
 
-##  Electronic Circuit Project
+## Electronic Circuit Project
 
 Description:
 
@@ -41,6 +41,12 @@ Tools & Components Used:
 - Breadboard
 - Electronic Components
 - Soldering Materials
+
+### Project Screenshots
+
+![Circuit Project](abe1caa3-58c8-45a9-9bbf-e32b8c0126a6.jpg)
+
+![Multimeter Testing](ef5a59da-f723-481b-a5ae-e0bbc49c9936.jpg)
 
 ---
 
@@ -61,7 +67,6 @@ Tools Used:
 ![CAD Project 2](onshape2.png)
 
 ![CAD Project 3](onshape3.png)
-
 ![Circuit Project](abe1caa3-58c8-45a9-9bbf-e32b8c0126a6.jpg)
 
 ![Multimeter Testing](ef5a59da-f723-481b-a5ae-e0bbc49c9936.jpg)
