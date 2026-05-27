@@ -58,7 +58,7 @@ Tools Used:
 
 ### Project Screenshots
 
-![CAD Project 1](onshape1.png
+![CAD Project 1](onshape1.png)
 
 ![CAD Project 2](onshape2.png)
 
