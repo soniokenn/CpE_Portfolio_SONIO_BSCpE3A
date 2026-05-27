@@ -6,7 +6,7 @@ I am a BS Computer Engineering student from CE3A. This portfolio contains academ
 
 ---
 
-# 📌 Personal Information
+#  Personal Information
 
 - Course: Bachelor of Science in Computer Engineering
 - Section: CE3A
@@ -15,7 +15,7 @@ I am passionate about programming, software development, and modern technology. 
 
 ---
 
-# 🛠 Technical Skills
+# Technical Skills
 
 - Python Programming
 - GitHub
@@ -26,7 +26,7 @@ I am passionate about programming, software development, and modern technology. 
 
 ---
 
-# 📁 Projects
+# Projects
 
 ## Simple Python Calculator
 (description...)
